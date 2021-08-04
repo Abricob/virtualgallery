@@ -5,7 +5,7 @@
 	"scripts": {
 		"deploy": "npm run build && gh-pages -d build",
 		"start": "budo src/index.js",
-		"build": "browserify -p tinyify src/index.js | htmlify > build.html",
+		"build": "browserify -p tinyify src/index.js | htmlify > build/index.html",
 		"genList": "node images/generateList.js",
 		"prestart": "npm run genList",
 		"prebuild": "npm run genList"
@@ -26,6 +26,7 @@
 		"babelify": "^10.0.0",
 		"browserify": "^16.5.1",
 		"budo": "^11.6.4",
+		"gh-pages": "^3.2.3",
 		"inline-htmlify": "^2.0.1",
 		"tinyify": "^3.0.0",
 		"uglify-js": "^3.10.0"
