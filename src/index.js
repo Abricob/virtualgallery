@@ -1,7 +1,7 @@
 'use strict';
 
 if (navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i)) {
-	document.body.innerText = "This project doesn't work properly on mobile devices";
+	document.body.innerText = "Merci d'utiliser un ordinateur pour afficher le visuel";
 	throw new Error("mobile device");
 }
 
