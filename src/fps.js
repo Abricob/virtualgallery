@@ -4,7 +4,7 @@ const vec3 = require('gl-vec3');
 const lock = require('pointer-lock');
 //const footstep = require('./footstep')();
 
-const sensibility = 0.002;
+const sensibility = 0.006;
 const rotationFilter = 0.95;
 const limitAngle = Math.PI / 4;
 const slowAngle = Math.PI / 6;
@@ -31,7 +31,7 @@ module.exports = function ({getGridSegments}) {
 	var pos = [2, height, 2];
 	var forward = [0.707, 0, 0.707], up = [0, 1, 0];
 	var force = [0, 0, 0];
-	var walkTime = 0.5;
+	var walkTime = 0.4;
 	var view = mat4.identity([]);
 	var run = false;
 
