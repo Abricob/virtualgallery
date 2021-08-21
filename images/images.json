@@ -1,10 +1,6 @@
 {
     "images": [
         {
-            "title": "A Silentio",
-            "file": "A Silentio.jpeg"
-        },
-        {
             "title": "Berge du Lac",
             "file": "Berge du Lac.jpeg"
         },
@@ -17,36 +13,44 @@
             "file": "Deux Arbres et Beau Temps.jpeg"
         },
         {
-            "title": "Deux Arbres et la Rivière de Sang",
-            "file": "Deux Arbres et la Rivière de Sang.jpeg"
-        },
-        {
             "title": "Incendies",
             "file": "Incendies.jpeg"
         },
         {
-            "title": "Quelques Roses pour la Mort",
-            "file": "Quelques Roses pour la Mort.jpeg"
+            "title": "L'Homme et l'Enfant",
+            "file": "L'Homme et l'Enfant.jpg"
         },
         {
-            "title": "Rafales en Montagne",
-            "file": "Rafales en Montagne.jpeg"
+            "title": "La Ferme",
+            "file": "La Ferme.jpeg"
         },
         {
-            "title": "Rayons de Soleil",
-            "file": "Rayons de Soleil.jpeg"
+            "title": "Le Sang",
+            "file": "Le Sang.jpeg"
+        },
+        {
+            "title": "Mort en Montagne",
+            "file": "Mort en Montagne.jpeg"
+        },
+        {
+            "title": "Quelques Roses",
+            "file": "Quelques Roses.jpeg"
+        },
+        {
+            "title": "Regarder le Reflet",
+            "file": "Regarder le Reflet.jpeg"
+        },
+        {
+            "title": "Silence Regarde",
+            "file": "Silence Regarde.jpeg"
+        },
+        {
+            "title": "Tombes",
+            "file": "Tombes.jpeg"
         },
         {
             "title": "Toutes ces Rafales",
             "file": "Toutes ces Rafales.jpeg"
-        },
-        {
-            "title": "Un Jardin Silencieux",
-            "file": "Un Jardin Silencieux.jpeg"
-        },
-        {
-            "title": "Un Petit Etang",
-            "file": "Un Petit Etang.jpeg"
         }
     ]
 }
