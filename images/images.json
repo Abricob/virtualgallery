@@ -25,6 +25,10 @@
             "file": "Le Sang.jpeg"
         },
         {
+            "title": "Lien par Nous",
+            "file": "Lien par Nous.jpg"
+        },
+        {
             "title": "Mort en Montagne",
             "file": "Mort en Montagne.jpeg"
         },
@@ -37,6 +41,10 @@
             "file": "Regarder le Reflet.jpeg"
         },
         {
+            "title": "Rive",
+            "file": "Rive.jpg"
+        },
+        {
             "title": "Silence Regarde",
             "file": "Silence Regarde.jpeg"
         },
@@ -47,6 +55,10 @@
         {
             "title": "Toutes ces Rafales",
             "file": "Toutes ces Rafales.jpeg"
+        },
+        {
+            "title": "Un Penchant pour Toi",
+            "file": "Un Penchant pour Toi.jpg"
         }
     ]
 }
